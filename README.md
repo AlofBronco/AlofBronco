@@ -1,3 +1,2 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi there 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,notion,linux)](https://skillicons.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlofBronco)](https://github.com/anuraghazra/github-readme-stats)
