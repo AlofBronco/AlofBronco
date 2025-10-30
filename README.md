@@ -14,7 +14,7 @@ I am a **full-stack developer** specializing in building **web applications**. I
 
 ---
 
-## GitHub Stats (they are bad **:(** )
+## GitHub Stats (they are bad ~_~ )
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlofBronco&show_icons=true&theme=radical)](https://github.com/AlofBronco)
 
