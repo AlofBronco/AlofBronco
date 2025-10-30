@@ -1,4 +1,4 @@
-# Hello 👋, I’m Alof Bronco
+# Hello 👋, I’m Alof Bronco 🐸
 
 I am a **full-stack developer** specializing in building **web applications**. I ~~love~~ making clean and maintainable code.
 
@@ -32,3 +32,6 @@ I am a **full-stack developer** specializing in building **web applications**. I
 
 - [GitHub](https://github.com/AlofBronco)
 - [Portfolio (TODO)](https://example.com)
+
+![My GIF](<img width="392" height="498" alt="image" src="https://github.com/user-attachments/assets/95735dd7-8b7d-47ac-bb42-04dca447c45e" />
+)
