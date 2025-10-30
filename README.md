@@ -33,4 +33,4 @@ I am a **full-stack developer** specializing in building **web applications**. I
 - [GitHub](https://github.com/AlofBronco)
 - [Portfolio (TODO)](https://example.com)
 
-![My GIF](https://github.com/user-attachments/assets/95735dd7-8b7d-47ac-bb42-04dca447c45e)
+![My GIF](https://tenor.com/view/yummy-frog-sitting-gif-12761081201880483414)
