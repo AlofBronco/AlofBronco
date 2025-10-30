@@ -33,4 +33,4 @@ I am a **full-stack developer** specializing in building **web applications**. I
 - [GitHub](https://github.com/AlofBronco)
 - [Portfolio (TODO)](https://example.com)
 
-<img src="./saposad.mp4" height="100"/>
+<img src="./saposad.gif" height="100"/>
