@@ -1,6 +1,6 @@
 # Hello 👋, I’m Alof Bronco 🐸
 
-I am a **full-stack developer** specializing in building **web applications**. I ~~love~~ making clean and maintainable code.
+I am a **full-stack developer** that builds **web applications**. I ~~love~~ making clean and maintainable code.
 
 ---
 
