@@ -6,7 +6,7 @@ I am a **full-stack developer** that builds **web applications**. I ~~love~~ mak
 
 ## My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,notion,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,notion,linux)](https://skillicons.dev)
 
 ### Learning
 
