@@ -31,6 +31,6 @@ I am a **full-stack developer** specializing in building **web applications**. I
 ## Connect with Me (i need more links)
 
 - [GitHub](https://github.com/AlofBronco)
-- [Portfolio (TODO)](https://example.com)
+- [Portfolio (TODO)](https://alofbronco.github.io/portfolio/)
 
 <img src="./saposad.gif" height="100"/>
